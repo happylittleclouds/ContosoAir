@@ -10,7 +10,7 @@ steps:
       Contents: '*json'
       TargetFolder: '$(build.artifactstagingdirectory)/Templates'
   
-  - task: Nqm@1
+  - task: Npm@1
     displayName: 'npm custom'
     inputs:
       command: custom
