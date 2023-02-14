@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/jonkellyoutlook/ContosoAir/_apis/build/status/happylittleclouds.ContosoAir?branchName=master)](https://dev.azure.com/jonkellyoutlook/ContosoAir/_build/latest?definitionId=15&branchName=master)
+
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
 
